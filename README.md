@@ -15,3 +15,5 @@ Rough checklist of ideas
 - [ ] Nvidia triton (for server)
 
 I need a better model, that has decently high inference time on stock pytorch (CPU). Raise an issue if you know an optimal model for this purpose :)
+
+Not actively worked on - Reason https://github.com/nebuly-ai/nebullvm
